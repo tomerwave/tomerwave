@@ -1,5 +1,7 @@
-### Tomer Gal
-
-**Tech:** Java, Node.js, TypeScript, React, AWS, Terraform, Kubernetes, Docker, Postgres, Redis, Kafka, GraphQL, Kotlin
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tomerwave&show_icons=true&theme=default&hide_border=true&hide_title=true)
+```yaml
+name: Tomer Gal
+role: Backend, DevOps & Architecture
+stack: [Java, Node.js, TypeScript, React, AWS, Terraform, K8s, Docker, Postgres, Redis, Kafka, GraphQL, Kotlin]
+currently_building: ContentGPT
+started_coding: age 12
+```
