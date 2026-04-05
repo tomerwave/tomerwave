@@ -10,7 +10,6 @@ tomer_gal:
     infra: [AWS, Terraform, Kubernetes, Docker]
 
   currently_building:
-    - Anchor Browser
     - a few things in stealth
 
   started_coding:
