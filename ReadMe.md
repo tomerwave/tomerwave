@@ -3,7 +3,7 @@ tomer_gal:
   role: Backend, DevOps & Architecture
 
   stack:
-    languages: [Java, Kotlin, TypeScript]
+    languages: [Java, Kotlin, TypeScript, Python]
     frontend: [React]
     backend: [Node.js, GraphQL, Kafka]
     data: [Postgres, Redis]
