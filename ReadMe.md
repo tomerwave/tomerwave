@@ -3,7 +3,7 @@ tomer_gal:
   role: Fractional VP R&D
   based: Tel Aviv
 
-  now: senior eng leadership for teams too early for a full-time VP
+  now: taking the VP R&D seat at a few startups, before they need a full-time one
 
   before:
     - Tonkean: founding engineer -> acquired
